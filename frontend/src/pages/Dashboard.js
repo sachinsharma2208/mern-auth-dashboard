@@ -1,10 +1,12 @@
 import { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom";
 import API from "../services/api";
 
 const Dashboard = () => {
   const [tasks, setTasks] = useState([]);
   const [title, setTitle] = useState("");
   const [search, setSearch] = useState("");
+  const navigate = useNavigate();
 
 
   const loadTasks = async () => {
@@ -33,6 +35,7 @@ const Dashboard = () => {
   const logout = () => {
     localStorage.removeItem("token");
     window.location.href = "/";
+    navigate("/");
   };
 
   return (
