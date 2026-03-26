@@ -77,8 +77,9 @@ PORT=5000
 ### 4. Run the application
 
 #### Backend
-npm server.js
+node server.js
 
 
 #### Frontend
-node server.js
+npm start dev
+
