@@ -1,30 +1,30 @@
-# 🚀 MERN Authentication & Task Management System
+#  MERN Authentication & Task Management System
 
 A full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that provides secure user authentication and efficient task management.
 
 
-## 🌐 Live Demo
+##  Live Demo
 
 * 🔗 Frontend (Vercel): [https://mern-auth-dashboard.vercel.app](https://sachinsharma2208-mern-auth-dashboar.vercel.app/)
 * 🔗 Backend API (Render): [https://your-backend-url.onrender.com](https://mern-auth-dashboard-vjjh.onrender.com)
 
 
-## 📂 GitHub Repository
+##  GitHub Repository
 
 * Source Code: [https://github.com/sachinsharma2208/mern-auth-dashboard](https://github.com/sachinsharma2208/mern-auth-dashboard)
 
 
-## ✨ Features
+##  Features
 
-* 🔐 Secure JWT-based Authentication (Login & Register)
-* 📝 Create, Update, Delete Tasks
-* 🔒 Protected Routes for Authorized Users Only
-* ⚡ Fast and Responsive UI
-* 🔄 Real-time Data Updates
-* 📱 Fully Responsive (Mobile + Desktop)
+*  Secure JWT-based Authentication (Login & Register)
+*  Create, Update, Delete Tasks
+*  Protected Routes for Authorized Users Only
+*  Fast and Responsive UI
+*  Real-time Data Updates
+*  Fully Responsive (Mobile + Desktop)
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend:
 
@@ -46,7 +46,7 @@ A full-stack web application built using the MERN stack (MongoDB, Express.js, Re
 * Render (Backend)
 
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 
