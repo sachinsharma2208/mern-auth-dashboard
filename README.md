@@ -5,8 +5,8 @@ A full-stack web application built using the MERN stack (MongoDB, Express.js, Re
 
 ## 🌐 Live Demo
 
-* 🔗 Frontend (Vercel): [https://mern-auth-dashboard.vercel.app](https://sachinsharma2208-mern-auth-dashboar.vercel.app/))
-* 🔗 Backend API (Render): [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)
+* 🔗 Frontend (Vercel): [https://mern-auth-dashboard.vercel.app](https://sachinsharma2208-mern-auth-dashboar.vercel.app/)
+* 🔗 Backend API (Render): [https://your-backend-url.onrender.com](https://mern-auth-dashboard-vjjh.onrender.com)
 
 
 ## 📂 GitHub Repository
