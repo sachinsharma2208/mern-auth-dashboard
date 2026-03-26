@@ -77,25 +77,8 @@ PORT=5000
 ### 4. Run the application
 
 #### Backend
+npm server.js
 
-```
-npm run server
-```
 
 #### Frontend
-
-```
-npm start
-
-
-## 📌 Future Improvements
-
-* 🔔 Notifications for tasks
-* 📅 Task scheduling with calendar
-* 📊 Dashboard analytics
-
-
-## 🙌 Author
-
-**Sachin Sharma**
-
+node server.js
